@@ -61,5 +61,3 @@ Expected Ouput
     2 @ 5 = 20
     Remainder: 0
     Value: 20
-
-Test 6:
